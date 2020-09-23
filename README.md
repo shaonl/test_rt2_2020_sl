@@ -6,4 +6,6 @@ And this is an example of an additional edit.
 
 Here is additional content.
 
-Further edits are here. 
+Further edits are here.
+
+Another edit here.
